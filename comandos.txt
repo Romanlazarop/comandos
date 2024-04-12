@@ -1,0 +1,27 @@
+github
+
+clonar 
+1-git clone url
+moverse de una rama a otra 
+2-git check out #Nombre de la rama 
+crear ramas
+3- git branch #nombre de la rama
+revisar status de rama 
+4- git status
+añadir 
+5-git add +(nombre de los archivos) o (. añade todo los cambios)
+empaquetar 
+6-git commit -m "comentario"
+subir repositorio
+7-git push
+subir una rama nueva con todos los cambios
+7.1- git push --setupstream origin #nombre de la rama
+descargar cambios de una rama especificas 
+- git check out(regresarse de rama a develop)
+descargar cambios 
+8-git pull origin #nombre de la rama
+ 
+
+Herencia
+ -En java no se puede tener multiherencia
+ 

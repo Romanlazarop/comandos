@@ -1,0 +1,11 @@
+GET-- http://localhost:8090/JDBCWEB/JDBCWEB/producto/mostrar (DAME)
+GET-- http://localhost:8090/JDBCWEB/JDBCWEB/producto/buscar/id (DAME)
+POST-- http://localhost:8090/JDBCWEB/JDBCWEB/producto/guardar (GUARDA)
+PUT-- http://localhost:8090/JDBCWEB/JDBCWEB/producto/actualizar (ACTUALIZA)
+DELETE-- http://localhost:8090/JDBCWEB/JDBCWEB/producto/eliminar/id (ELIMINA)
+
+GET-- http://localhost:8090/JDBCWEB/JDBCWEB/empleados/mostrar
+GET-- http://localhost:8090/JDBCWEB/JDBCWEB/empleados/buscar/41
+POST--http://localhost:8090/JDBCWEB/JDBCWEB/empleados/guardar
+PUT-- http://localhost:8090/JDBCWEB/JDBCWEB/empleados/actualizar
+DELETE-- http://localhost:8090/JDBCWEB/JDBCWEB/empleados/eliminar/41
